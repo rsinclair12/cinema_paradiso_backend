@@ -9,7 +9,7 @@ movies in a single click.
 ```
 ## Live Demo
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-Check out [API LIVE DEMO](https://cinemaparadisobackend.bablukumar9.repl.co) here!!
+Check out [API LIVE DEMO](https://cinemaparadisobackend.rsinclair12.repl.co) here!!
 ## Tech used
 ```
 * Backend : Django
