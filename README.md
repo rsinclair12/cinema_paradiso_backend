@@ -8,7 +8,7 @@ manner where they can save time by loading all the currently playing
 movies in a single click.
 ```
 ## Live Demo
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
+**This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
 Check out [API LIVE DEMO](https://cinemaparadisobackend.rsinclair12.repl.co) here!!
 ## Tech used
 ```
